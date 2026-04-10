@@ -41,6 +41,10 @@ st.markdown("""
 
     [data-testid="stChatMessageContent"] p {
         margin: 0 !important;
+        display: flex !important;
+        align-items: center !important;
+        min-height: 40px !important;
+        color: #000000 !important;
     }
 
     .stApp {
