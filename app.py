@@ -10,11 +10,11 @@ st.markdown("""
         background-color: #ffffff;
     }
     
-    h1 {
-        font-family: 'Fredoka One', cursive !important;
-        color: #ff6b9d !important;
-        font-size: 3rem !important;
-    }
+   h1 {
+    font-family: 'Fredoka One', cursive !important;
+    color: #ff6b9d !important;
+    font-size: 2rem !important;
+}
     
     .stChatMessage {
         font-family: 'Nunito', sans-serif !important;
