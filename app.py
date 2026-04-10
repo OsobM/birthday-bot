@@ -109,7 +109,7 @@ The joke always connects to their actual situation. Be creative. Keep the whole 
     return data["choices"][0]["message"]["content"]
 
 st.title("You the Birthday Bot 🎂")
-st.caption("Girl, what's the problem?")
+st.caption("Girl you know it's me Osob, what's the problem?")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
