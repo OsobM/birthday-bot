@@ -10,10 +10,14 @@ st.markdown("""
         background-color: #ffffff;
     }
     
-   h1 {
+  h1 {
     font-family: 'Fredoka One', cursive !important;
     color: #ff6b9d !important;
     font-size: 2rem !important;
+}
+
+div[data-testid="stCaptionContainer"] p {
+    color: #000000 !important;
 }
     
     .stChatMessage {
